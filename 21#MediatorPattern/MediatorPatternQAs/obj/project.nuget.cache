@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XQU3BJizDefnH3OJY5K+knwva1+AreXmpG/sdIAm9lEIjGavHpfq73SEO2o+Qstv/+7H8+uhAqwJ4y1+98+iCA==",
+  "success": true,
+  "projectFilePath": "/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/21#MediatorPattern/MediatorPatternQAs/MediatorPatternQAs.csproj",
+  "expectedPackageFiles": [
+    "/home/auco1120/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

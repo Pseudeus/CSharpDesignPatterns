@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/20#StatePattern/StatePattern/bin/Debug/net5.0/StatePattern
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/20#StatePattern/StatePattern/bin/Debug/net5.0/StatePattern.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/20#StatePattern/StatePattern/bin/Debug/net5.0/StatePattern.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/20#StatePattern/StatePattern/bin/Debug/net5.0/StatePattern.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/20#StatePattern/StatePattern/bin/Debug/net5.0/StatePattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/20#StatePattern/StatePattern/bin/Debug/net5.0/ref/StatePattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/20#StatePattern/StatePattern/bin/Debug/net5.0/StatePattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/20#StatePattern/StatePattern/obj/Debug/net5.0/StatePattern.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/20#StatePattern/StatePattern/obj/Debug/net5.0/StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/20#StatePattern/StatePattern/obj/Debug/net5.0/StatePattern.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/20#StatePattern/StatePattern/obj/Debug/net5.0/StatePattern.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/20#StatePattern/StatePattern/obj/Debug/net5.0/StatePattern.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/20#StatePattern/StatePattern/obj/Debug/net5.0/StatePattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/20#StatePattern/StatePattern/obj/Debug/net5.0/ref/StatePattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/20#StatePattern/StatePattern/obj/Debug/net5.0/StatePattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/20#StatePattern/StatePattern/obj/Debug/net5.0/StatePattern.genruntimeconfig.cache

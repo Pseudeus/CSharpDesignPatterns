@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPatternQAs/bin/Debug/net5.0/CommandPatternQAs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPatternQAs/bin/Debug/net5.0/CommandPatternQAs.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPatternQAs/bin/Debug/net5.0/CommandPatternQAs.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPatternQAs/bin/Debug/net5.0/CommandPatternQAs.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPatternQAs/bin/Debug/net5.0/CommandPatternQAs.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPatternQAs/bin/Debug/net5.0/ref/CommandPatternQAs.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPatternQAs/bin/Debug/net5.0/CommandPatternQAs.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPatternQAs/obj/Debug/net5.0/CommandPatternQAs.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPatternQAs/obj/Debug/net5.0/CommandPatternQAs.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPatternQAs/obj/Debug/net5.0/CommandPatternQAs.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPatternQAs/obj/Debug/net5.0/CommandPatternQAs.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPatternQAs/obj/Debug/net5.0/CommandPatternQAs.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPatternQAs/obj/Debug/net5.0/CommandPatternQAs.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPatternQAs/obj/Debug/net5.0/ref/CommandPatternQAs.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPatternQAs/obj/Debug/net5.0/CommandPatternQAs.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPatternQAs/obj/Debug/net5.0/CommandPatternQAs.genruntimeconfig.cache

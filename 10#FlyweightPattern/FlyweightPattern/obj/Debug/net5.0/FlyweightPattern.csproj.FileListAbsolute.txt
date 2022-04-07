@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/10#FlyweightPattern/FlyweightPattern/bin/Debug/net5.0/FlyweightPattern
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/10#FlyweightPattern/FlyweightPattern/bin/Debug/net5.0/FlyweightPattern.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/10#FlyweightPattern/FlyweightPattern/bin/Debug/net5.0/FlyweightPattern.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/10#FlyweightPattern/FlyweightPattern/bin/Debug/net5.0/FlyweightPattern.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/10#FlyweightPattern/FlyweightPattern/bin/Debug/net5.0/FlyweightPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/10#FlyweightPattern/FlyweightPattern/bin/Debug/net5.0/ref/FlyweightPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/10#FlyweightPattern/FlyweightPattern/bin/Debug/net5.0/FlyweightPattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/10#FlyweightPattern/FlyweightPattern/obj/Debug/net5.0/FlyweightPattern.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/10#FlyweightPattern/FlyweightPattern/obj/Debug/net5.0/FlyweightPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/10#FlyweightPattern/FlyweightPattern/obj/Debug/net5.0/FlyweightPattern.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/10#FlyweightPattern/FlyweightPattern/obj/Debug/net5.0/FlyweightPattern.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/10#FlyweightPattern/FlyweightPattern/obj/Debug/net5.0/FlyweightPattern.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/10#FlyweightPattern/FlyweightPattern/obj/Debug/net5.0/FlyweightPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/10#FlyweightPattern/FlyweightPattern/obj/Debug/net5.0/ref/FlyweightPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/10#FlyweightPattern/FlyweightPattern/obj/Debug/net5.0/FlyweightPattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/10#FlyweightPattern/FlyweightPattern/obj/Debug/net5.0/FlyweightPattern.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionEx1/bin/Debug/net5.0/GarbageCollectionEx1
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionEx1/bin/Debug/net5.0/GarbageCollectionEx1.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionEx1/bin/Debug/net5.0/GarbageCollectionEx1.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionEx1/bin/Debug/net5.0/GarbageCollectionEx1.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionEx1/bin/Debug/net5.0/GarbageCollectionEx1.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionEx1/bin/Debug/net5.0/ref/GarbageCollectionEx1.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionEx1/bin/Debug/net5.0/GarbageCollectionEx1.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionEx1/obj/Debug/net5.0/GarbageCollectionEx1.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionEx1/obj/Debug/net5.0/GarbageCollectionEx1.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionEx1/obj/Debug/net5.0/GarbageCollectionEx1.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionEx1/obj/Debug/net5.0/GarbageCollectionEx1.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionEx1/obj/Debug/net5.0/GarbageCollectionEx1.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionEx1/obj/Debug/net5.0/GarbageCollectionEx1.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionEx1/obj/Debug/net5.0/ref/GarbageCollectionEx1.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionEx1/obj/Debug/net5.0/GarbageCollectionEx1.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionEx1/obj/Debug/net5.0/GarbageCollectionEx1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/14#ObserverPattern/ObserverPattern/bin/Debug/net5.0/ObserverPattern
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/14#ObserverPattern/ObserverPattern/bin/Debug/net5.0/ObserverPattern.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/14#ObserverPattern/ObserverPattern/bin/Debug/net5.0/ObserverPattern.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/14#ObserverPattern/ObserverPattern/bin/Debug/net5.0/ObserverPattern.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/14#ObserverPattern/ObserverPattern/bin/Debug/net5.0/ObserverPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/14#ObserverPattern/ObserverPattern/bin/Debug/net5.0/ref/ObserverPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/14#ObserverPattern/ObserverPattern/bin/Debug/net5.0/ObserverPattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/14#ObserverPattern/ObserverPattern/obj/Debug/net5.0/ObserverPattern.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/14#ObserverPattern/ObserverPattern/obj/Debug/net5.0/ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/14#ObserverPattern/ObserverPattern/obj/Debug/net5.0/ObserverPattern.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/14#ObserverPattern/ObserverPattern/obj/Debug/net5.0/ObserverPattern.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/14#ObserverPattern/ObserverPattern/obj/Debug/net5.0/ObserverPattern.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/14#ObserverPattern/ObserverPattern/obj/Debug/net5.0/ObserverPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/14#ObserverPattern/ObserverPattern/obj/Debug/net5.0/ref/ObserverPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/14#ObserverPattern/ObserverPattern/obj/Debug/net5.0/ObserverPattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/14#ObserverPattern/ObserverPattern/obj/Debug/net5.0/ObserverPattern.genruntimeconfig.cache

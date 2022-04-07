@@ -1,0 +1,10 @@
+GoF Definition:
+    Represent an operation to be performed on the elements of an object structure. Visitor
+    lets you define a new operation without changing the classes of the elements on which it
+    operates.
+    
+Concept:
+    Whith this pattern, you separate an algorithm from an object structure. So, you can add
+    new operations without modifying the existing architecture. This patten supports the
+    open/close principle (which says extension is allowed but modification is disallowed for
+    entities shuch a class, function, modules, and so on).

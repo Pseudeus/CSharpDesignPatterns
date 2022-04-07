@@ -1,0 +1,19 @@
+GoF Definition:
+    There is no universally accepted definition. So, let's choose the definiton from two
+    commonly used resources. Wikipedia says the following:
+        
+        "Model-view-controller (MVC) is an architectural pattern commonly used
+         for developing user interfaces that divides an application into three inter-
+         connected parts. This is done to separate internal representations of infor-
+         mation from the way information is presented to and accepted from the
+         user. The MVC design pattern decouples these major components allowing
+         for efficent code reuse and parallel development."
+         
+         wiki.c2.com says this: "We need smart models, thin controllers and dumb views."
+    
+Concept:
+    From the definition, it is apparent that the pattern consists of these major components:
+    model, view, and controller. The controller is placed between the view and model in
+    such a way that they can communicate to each other only through the controller. This
+    model separates the machanism of how the data is displayed from the mechanism of
+    how the data will be manipulated.

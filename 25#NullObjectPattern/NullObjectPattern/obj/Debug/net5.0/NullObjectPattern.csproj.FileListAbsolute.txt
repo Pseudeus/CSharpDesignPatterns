@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/25#NullObjectPattern/NullObjectPattern/bin/Debug/net5.0/NullObjectPattern
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/25#NullObjectPattern/NullObjectPattern/bin/Debug/net5.0/NullObjectPattern.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/25#NullObjectPattern/NullObjectPattern/bin/Debug/net5.0/NullObjectPattern.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/25#NullObjectPattern/NullObjectPattern/bin/Debug/net5.0/NullObjectPattern.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/25#NullObjectPattern/NullObjectPattern/bin/Debug/net5.0/NullObjectPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/25#NullObjectPattern/NullObjectPattern/bin/Debug/net5.0/ref/NullObjectPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/25#NullObjectPattern/NullObjectPattern/bin/Debug/net5.0/NullObjectPattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/25#NullObjectPattern/NullObjectPattern/obj/Debug/net5.0/NullObjectPattern.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/25#NullObjectPattern/NullObjectPattern/obj/Debug/net5.0/NullObjectPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/25#NullObjectPattern/NullObjectPattern/obj/Debug/net5.0/NullObjectPattern.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/25#NullObjectPattern/NullObjectPattern/obj/Debug/net5.0/NullObjectPattern.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/25#NullObjectPattern/NullObjectPattern/obj/Debug/net5.0/NullObjectPattern.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/25#NullObjectPattern/NullObjectPattern/obj/Debug/net5.0/NullObjectPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/25#NullObjectPattern/NullObjectPattern/obj/Debug/net5.0/ref/NullObjectPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/25#NullObjectPattern/NullObjectPattern/obj/Debug/net5.0/NullObjectPattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/25#NullObjectPattern/NullObjectPattern/obj/Debug/net5.0/NullObjectPattern.genruntimeconfig.cache

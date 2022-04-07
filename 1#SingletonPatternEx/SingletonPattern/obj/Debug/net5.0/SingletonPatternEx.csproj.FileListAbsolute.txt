@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/SingletonPatternEx/bin/Debug/net5.0/SingletonPatternEx
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/SingletonPatternEx/bin/Debug/net5.0/SingletonPatternEx.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/SingletonPatternEx/bin/Debug/net5.0/SingletonPatternEx.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/SingletonPatternEx/bin/Debug/net5.0/SingletonPatternEx.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/SingletonPatternEx/bin/Debug/net5.0/SingletonPatternEx.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/SingletonPatternEx/bin/Debug/net5.0/ref/SingletonPatternEx.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/SingletonPatternEx/bin/Debug/net5.0/SingletonPatternEx.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/SingletonPatternEx/obj/Debug/net5.0/SingletonPatternEx.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/SingletonPatternEx/obj/Debug/net5.0/SingletonPatternEx.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/SingletonPatternEx/obj/Debug/net5.0/SingletonPatternEx.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/SingletonPatternEx/obj/Debug/net5.0/SingletonPatternEx.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/SingletonPatternEx/obj/Debug/net5.0/SingletonPatternEx.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/SingletonPatternEx/obj/Debug/net5.0/SingletonPatternEx.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/SingletonPatternEx/obj/Debug/net5.0/ref/SingletonPatternEx.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/SingletonPatternEx/obj/Debug/net5.0/SingletonPatternEx.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/SingletonPatternEx/obj/Debug/net5.0/SingletonPatternEx.genruntimeconfig.cache

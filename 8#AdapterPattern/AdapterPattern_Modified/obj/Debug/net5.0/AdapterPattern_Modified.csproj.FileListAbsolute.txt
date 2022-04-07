@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/8#AdapterPattern/AdapterPattern_Modified/bin/Debug/net5.0/AdapterPattern_Modified
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/8#AdapterPattern/AdapterPattern_Modified/bin/Debug/net5.0/AdapterPattern_Modified.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/8#AdapterPattern/AdapterPattern_Modified/bin/Debug/net5.0/AdapterPattern_Modified.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/8#AdapterPattern/AdapterPattern_Modified/bin/Debug/net5.0/AdapterPattern_Modified.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/8#AdapterPattern/AdapterPattern_Modified/bin/Debug/net5.0/AdapterPattern_Modified.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/8#AdapterPattern/AdapterPattern_Modified/bin/Debug/net5.0/ref/AdapterPattern_Modified.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/8#AdapterPattern/AdapterPattern_Modified/bin/Debug/net5.0/AdapterPattern_Modified.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/8#AdapterPattern/AdapterPattern_Modified/obj/Debug/net5.0/AdapterPattern_Modified.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/8#AdapterPattern/AdapterPattern_Modified/obj/Debug/net5.0/AdapterPattern_Modified.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/8#AdapterPattern/AdapterPattern_Modified/obj/Debug/net5.0/AdapterPattern_Modified.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/8#AdapterPattern/AdapterPattern_Modified/obj/Debug/net5.0/AdapterPattern_Modified.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/8#AdapterPattern/AdapterPattern_Modified/obj/Debug/net5.0/AdapterPattern_Modified.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/8#AdapterPattern/AdapterPattern_Modified/obj/Debug/net5.0/AdapterPattern_Modified.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/8#AdapterPattern/AdapterPattern_Modified/obj/Debug/net5.0/ref/AdapterPattern_Modified.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/8#AdapterPattern/AdapterPattern_Modified/obj/Debug/net5.0/AdapterPattern_Modified.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/8#AdapterPattern/AdapterPattern_Modified/obj/Debug/net5.0/AdapterPattern_Modified.genruntimeconfig.cache

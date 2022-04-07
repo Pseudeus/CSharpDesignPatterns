@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hh6iTT6SmRzUn8mTD9V3l827MycCjO7ZL+oz4v3qwjj1jpwm3XzUSS37K17JyMkdWZRZBrWc5TOiXOsMQXAONg==",
+  "success": true,
+  "projectFilePath": "/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisittorPatternWithCompositePatternEx/VisittorPatternWithCompossitePatternEx.csproj",
+  "expectedPackageFiles": [
+    "/home/auco1120/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

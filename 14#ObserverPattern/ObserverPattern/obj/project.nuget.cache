@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n4cVQ4V/+zZGUGyo8QB/+XljukoMTqSPFOCiaxOFKXWvPYb4TruKyTUQA7WOVwQO3YgTgVjMQQCEIXzT0uuvWw==",
+  "success": true,
+  "projectFilePath": "/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/14#ObserverPattern/ObserverPattern/ObserverPattern.csproj",
+  "expectedPackageFiles": [
+    "/home/auco1120/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

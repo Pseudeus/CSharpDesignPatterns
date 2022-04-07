@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/bin/Debug/net5.0/ProxyPattern
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/bin/Debug/net5.0/ProxyPattern.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/bin/Debug/net5.0/ProxyPattern.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/bin/Debug/net5.0/ProxyPattern.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/bin/Debug/net5.0/ProxyPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/bin/Debug/net5.0/ref/ProxyPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/bin/Debug/net5.0/ProxyPattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/obj/Debug/net5.0/ProxyPattern.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/obj/Debug/net5.0/ProxyPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/obj/Debug/net5.0/ProxyPattern.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/obj/Debug/net5.0/ProxyPattern.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/obj/Debug/net5.0/ProxyPattern.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/obj/Debug/net5.0/ProxyPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/obj/Debug/net5.0/ref/ProxyPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/obj/Debug/net5.0/ProxyPattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/obj/Debug/net5.0/ProxyPattern.genruntimeconfig.cache

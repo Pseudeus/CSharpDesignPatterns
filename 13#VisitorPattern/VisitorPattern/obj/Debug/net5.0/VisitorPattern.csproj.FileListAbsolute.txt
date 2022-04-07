@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisitorPattern/bin/Debug/net5.0/VisitorPattern
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisitorPattern/bin/Debug/net5.0/VisitorPattern.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisitorPattern/bin/Debug/net5.0/VisitorPattern.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisitorPattern/bin/Debug/net5.0/VisitorPattern.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisitorPattern/bin/Debug/net5.0/VisitorPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisitorPattern/bin/Debug/net5.0/ref/VisitorPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisitorPattern/bin/Debug/net5.0/VisitorPattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisitorPattern/obj/Debug/net5.0/VisitorPattern.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisitorPattern/obj/Debug/net5.0/VisitorPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisitorPattern/obj/Debug/net5.0/VisitorPattern.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisitorPattern/obj/Debug/net5.0/VisitorPattern.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisitorPattern/obj/Debug/net5.0/VisitorPattern.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisitorPattern/obj/Debug/net5.0/VisitorPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisitorPattern/obj/Debug/net5.0/ref/VisitorPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisitorPattern/obj/Debug/net5.0/VisitorPattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisitorPattern/obj/Debug/net5.0/VisitorPattern.genruntimeconfig.cache

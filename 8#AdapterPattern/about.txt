@@ -1,0 +1,7 @@
+GoF Definition:
+    Convert the interface of a class into another interface that clients expect. The Adapter
+    Pattern lets classes work together that could not otherwise because of incompatible 
+    interfaces.
+    
+Concept:
+    The core concept is best descibed by the examples.

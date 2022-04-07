@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/11#CompositePattern/CompositePattern/bin/Debug/net5.0/CompositePattern
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/11#CompositePattern/CompositePattern/bin/Debug/net5.0/CompositePattern.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/11#CompositePattern/CompositePattern/bin/Debug/net5.0/CompositePattern.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/11#CompositePattern/CompositePattern/bin/Debug/net5.0/CompositePattern.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/11#CompositePattern/CompositePattern/bin/Debug/net5.0/CompositePattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/11#CompositePattern/CompositePattern/bin/Debug/net5.0/ref/CompositePattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/11#CompositePattern/CompositePattern/bin/Debug/net5.0/CompositePattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/11#CompositePattern/CompositePattern/obj/Debug/net5.0/CompositePattern.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/11#CompositePattern/CompositePattern/obj/Debug/net5.0/CompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/11#CompositePattern/CompositePattern/obj/Debug/net5.0/CompositePattern.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/11#CompositePattern/CompositePattern/obj/Debug/net5.0/CompositePattern.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/11#CompositePattern/CompositePattern/obj/Debug/net5.0/CompositePattern.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/11#CompositePattern/CompositePattern/obj/Debug/net5.0/CompositePattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/11#CompositePattern/CompositePattern/obj/Debug/net5.0/ref/CompositePattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/11#CompositePattern/CompositePattern/obj/Debug/net5.0/CompositePattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/11#CompositePattern/CompositePattern/obj/Debug/net5.0/CompositePattern.genruntimeconfig.cache

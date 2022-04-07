@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/19#MementoPattern/MementoPattern/bin/Debug/net5.0/MementoPattern
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/19#MementoPattern/MementoPattern/bin/Debug/net5.0/MementoPattern.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/19#MementoPattern/MementoPattern/bin/Debug/net5.0/MementoPattern.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/19#MementoPattern/MementoPattern/bin/Debug/net5.0/MementoPattern.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/19#MementoPattern/MementoPattern/bin/Debug/net5.0/MementoPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/19#MementoPattern/MementoPattern/bin/Debug/net5.0/ref/MementoPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/19#MementoPattern/MementoPattern/bin/Debug/net5.0/MementoPattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/19#MementoPattern/MementoPattern/obj/Debug/net5.0/MementoPattern.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/19#MementoPattern/MementoPattern/obj/Debug/net5.0/MementoPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/19#MementoPattern/MementoPattern/obj/Debug/net5.0/MementoPattern.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/19#MementoPattern/MementoPattern/obj/Debug/net5.0/MementoPattern.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/19#MementoPattern/MementoPattern/obj/Debug/net5.0/MementoPattern.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/19#MementoPattern/MementoPattern/obj/Debug/net5.0/MementoPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/19#MementoPattern/MementoPattern/obj/Debug/net5.0/ref/MementoPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/19#MementoPattern/MementoPattern/obj/Debug/net5.0/MementoPattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/19#MementoPattern/MementoPattern/obj/Debug/net5.0/MementoPattern.genruntimeconfig.cache

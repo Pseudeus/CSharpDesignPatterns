@@ -1,0 +1,9 @@
+GoF Definition:
+    Create an object without exposing the instantiation logic to the client.
+    
+Concept:
+    In object-oriented programming, a factory is such an object that can create other objects.
+    A factory can be invoked in may different ways but most often, it uses a method that 
+    can return objects with varying prototypes. Any subroutine that can help us to create
+    these new objects, can be considered as a factory. Most importantly, it will help you to
+    abstract the process of object creation from the consumer of the application.

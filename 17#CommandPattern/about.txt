@@ -1,0 +1,18 @@
+GoF Definition:
+    Encapsulate a request as an object, thereby letting you parameterize clients with
+    different requests, queue or log requests, and support undoable operations.
+    
+Concept:
+    With this pattern, you encapsulate a method invocation process. In general, four terms
+    are important here: invoker, client, command, and receiver:
+    
+        *   A command object can invoke a method of the receiver in a way that is specific
+            to that receiver's class.
+            
+        *   The receiver then starts processing the job.
+        
+        *   A command object is separately passed to the invoker object to invoke the command.
+        
+        *   The client object holds the invoker object and the command objects. The client
+            only makes the decision (which commands to execute) and then passes the 
+            command to the invoker object (for execution).

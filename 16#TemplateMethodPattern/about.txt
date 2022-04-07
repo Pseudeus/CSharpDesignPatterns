@@ -1,0 +1,12 @@
+GoF Definition:
+    Define the skeleton of an algorithm in an operation, deferring some steps to subclasses.
+    The Template Method pattern lets subclasses redefine certain steps of an algorithm
+    without changing the algorithm's structure.
+    
+Concept:
+    With the template method pattern, you define the minimum or essential structure of an
+    algorithm. Then you defer some responsability to the subclasses. The key idea is that you
+    can redefine certain steps of an algorithm, but thos changes will not impact the core
+    architecture.
+        This design pattern is useful if you have to implement a multistep algorithm and you
+    want to allow customization through subclasses.

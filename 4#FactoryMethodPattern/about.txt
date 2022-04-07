@@ -1,0 +1,6 @@
+GoF Definition:
+    Define an interface for creating an object, but let subclases decide which class to
+    instantiate. The Factory Method pattern lets a class defer instantiation to subclasses.
+    
+Concept:
+    The concept can be best described with the examples.

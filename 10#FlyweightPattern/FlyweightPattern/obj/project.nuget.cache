@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T19fgfBYOe8J13HrRzGNjWwayin7Uo4sabo77J9ZvGHHcYyfDDbp+k94e+NwyxNSg3qfIFZsDX87PnUCHPe9iQ==",
+  "success": true,
+  "projectFilePath": "/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/10#FlyweightPattern/FlyweightPattern/FlyweightPattern.csproj",
+  "expectedPackageFiles": [
+    "/home/auco1120/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

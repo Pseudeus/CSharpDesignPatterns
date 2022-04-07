@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/ProxyPatternQAs/bin/Debug/net5.0/ProxyPatternQAs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/ProxyPatternQAs/bin/Debug/net5.0/ProxyPatternQAs.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/ProxyPatternQAs/bin/Debug/net5.0/ProxyPatternQAs.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/ProxyPatternQAs/bin/Debug/net5.0/ProxyPatternQAs.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/ProxyPatternQAs/bin/Debug/net5.0/ProxyPatternQAs.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/ProxyPatternQAs/bin/Debug/net5.0/ref/ProxyPatternQAs.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/ProxyPatternQAs/bin/Debug/net5.0/ProxyPatternQAs.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/ProxyPatternQAs/obj/Debug/net5.0/ProxyPatternQAs.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/ProxyPatternQAs/obj/Debug/net5.0/ProxyPatternQAs.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/ProxyPatternQAs/obj/Debug/net5.0/ProxyPatternQAs.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/ProxyPatternQAs/obj/Debug/net5.0/ProxyPatternQAs.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/ProxyPatternQAs/obj/Debug/net5.0/ProxyPatternQAs.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/ProxyPatternQAs/obj/Debug/net5.0/ProxyPatternQAs.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/ProxyPatternQAs/obj/Debug/net5.0/ref/ProxyPatternQAs.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/ProxyPatternQAs/obj/Debug/net5.0/ProxyPatternQAs.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/ProxyPatternQAs/obj/Debug/net5.0/ProxyPatternQAs.genruntimeconfig.cache

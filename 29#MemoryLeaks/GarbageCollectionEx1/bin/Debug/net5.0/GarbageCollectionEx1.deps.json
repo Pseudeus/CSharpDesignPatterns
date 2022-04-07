@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GarbageCollectionEx1/1.0.0": {
+        "runtime": {
+          "GarbageCollectionEx1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GarbageCollectionEx1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

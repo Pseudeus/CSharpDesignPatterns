@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/12#BridgePattern/BridgePattern/bin/Debug/net5.0/BridgePattern
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/12#BridgePattern/BridgePattern/bin/Debug/net5.0/BridgePattern.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/12#BridgePattern/BridgePattern/bin/Debug/net5.0/BridgePattern.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/12#BridgePattern/BridgePattern/bin/Debug/net5.0/BridgePattern.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/12#BridgePattern/BridgePattern/bin/Debug/net5.0/BridgePattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/12#BridgePattern/BridgePattern/bin/Debug/net5.0/ref/BridgePattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/12#BridgePattern/BridgePattern/bin/Debug/net5.0/BridgePattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/12#BridgePattern/BridgePattern/obj/Debug/net5.0/BridgePattern.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/12#BridgePattern/BridgePattern/obj/Debug/net5.0/BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/12#BridgePattern/BridgePattern/obj/Debug/net5.0/BridgePattern.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/12#BridgePattern/BridgePattern/obj/Debug/net5.0/BridgePattern.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/12#BridgePattern/BridgePattern/obj/Debug/net5.0/BridgePattern.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/12#BridgePattern/BridgePattern/obj/Debug/net5.0/BridgePattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/12#BridgePattern/BridgePattern/obj/Debug/net5.0/ref/BridgePattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/12#BridgePattern/BridgePattern/obj/Debug/net5.0/BridgePattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/12#BridgePattern/BridgePattern/obj/Debug/net5.0/BridgePattern.genruntimeconfig.cache

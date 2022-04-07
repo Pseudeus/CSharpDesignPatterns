@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sDfi0Vk+4ZKi0dAC6z9iUqzjL7B1idzvPZgjtMcm29wlmOYZanovh/oDkOJJk7LDi4RGHbHzHxwZ0nqIt1BNSA==",
+  "success": true,
+  "projectFilePath": "/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/SimpleFactoryPattern/SimpleFactoryPattern.csproj",
+  "expectedPackageFiles": [
+    "/home/auco1120/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

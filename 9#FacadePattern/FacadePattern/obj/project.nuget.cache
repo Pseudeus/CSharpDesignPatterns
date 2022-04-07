@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WTJKd8SURYPdRgsVgAc7GMQBYd1dTgn5rWwEhIaZ7GESSJQJMOb1rcIHSYHjrEKGDOUmkjnb8JJdLd2txIVPfw==",
+  "success": true,
+  "projectFilePath": "/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/9#FacadePattern/FacadePattern/FacadePattern.csproj",
+  "expectedPackageFiles": [
+    "/home/auco1120/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

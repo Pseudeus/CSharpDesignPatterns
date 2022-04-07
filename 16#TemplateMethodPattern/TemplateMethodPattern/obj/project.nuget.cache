@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8445Gk+XxsgAdkxtdVf4ucHnofL//auc1W9YZD1tO+gT5AIZCboNDWGuE/dIvK1Q/d3gcR6JZZ5fiXddDK2Xiw==",
+  "success": true,
+  "projectFilePath": "/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/16#TemplateMethodPattern/TemplateMethodPattern/TemplateMethodPattern.csproj",
+  "expectedPackageFiles": [
+    "/home/auco1120/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

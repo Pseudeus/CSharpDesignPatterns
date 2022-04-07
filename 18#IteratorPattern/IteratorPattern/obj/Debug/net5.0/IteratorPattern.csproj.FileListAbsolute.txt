@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/18#IteratorPattern/IteratorPattern/bin/Debug/net5.0/IteratorPattern
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/18#IteratorPattern/IteratorPattern/bin/Debug/net5.0/IteratorPattern.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/18#IteratorPattern/IteratorPattern/bin/Debug/net5.0/IteratorPattern.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/18#IteratorPattern/IteratorPattern/bin/Debug/net5.0/IteratorPattern.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/18#IteratorPattern/IteratorPattern/bin/Debug/net5.0/IteratorPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/18#IteratorPattern/IteratorPattern/bin/Debug/net5.0/ref/IteratorPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/18#IteratorPattern/IteratorPattern/bin/Debug/net5.0/IteratorPattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/18#IteratorPattern/IteratorPattern/obj/Debug/net5.0/IteratorPattern.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/18#IteratorPattern/IteratorPattern/obj/Debug/net5.0/IteratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/18#IteratorPattern/IteratorPattern/obj/Debug/net5.0/IteratorPattern.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/18#IteratorPattern/IteratorPattern/obj/Debug/net5.0/IteratorPattern.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/18#IteratorPattern/IteratorPattern/obj/Debug/net5.0/IteratorPattern.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/18#IteratorPattern/IteratorPattern/obj/Debug/net5.0/IteratorPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/18#IteratorPattern/IteratorPattern/obj/Debug/net5.0/ref/IteratorPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/18#IteratorPattern/IteratorPattern/obj/Debug/net5.0/IteratorPattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/18#IteratorPattern/IteratorPattern/obj/Debug/net5.0/IteratorPattern.genruntimeconfig.cache

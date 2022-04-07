@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisittorPatternWithCompositePatternEx/bin/Debug/net5.0/VisittorPatternWithCompossitePatternEx
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisittorPatternWithCompositePatternEx/bin/Debug/net5.0/VisittorPatternWithCompossitePatternEx.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisittorPatternWithCompositePatternEx/bin/Debug/net5.0/VisittorPatternWithCompossitePatternEx.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisittorPatternWithCompositePatternEx/bin/Debug/net5.0/VisittorPatternWithCompossitePatternEx.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisittorPatternWithCompositePatternEx/bin/Debug/net5.0/VisittorPatternWithCompossitePatternEx.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisittorPatternWithCompositePatternEx/bin/Debug/net5.0/ref/VisittorPatternWithCompossitePatternEx.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisittorPatternWithCompositePatternEx/bin/Debug/net5.0/VisittorPatternWithCompossitePatternEx.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisittorPatternWithCompositePatternEx/obj/Debug/net5.0/VisittorPatternWithCompossitePatternEx.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisittorPatternWithCompositePatternEx/obj/Debug/net5.0/VisittorPatternWithCompossitePatternEx.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisittorPatternWithCompositePatternEx/obj/Debug/net5.0/VisittorPatternWithCompossitePatternEx.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisittorPatternWithCompositePatternEx/obj/Debug/net5.0/VisittorPatternWithCompossitePatternEx.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisittorPatternWithCompositePatternEx/obj/Debug/net5.0/VisittorPatternWithCompossitePatternEx.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisittorPatternWithCompositePatternEx/obj/Debug/net5.0/VisittorPatternWithCompossitePatternEx.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisittorPatternWithCompositePatternEx/obj/Debug/net5.0/ref/VisittorPatternWithCompossitePatternEx.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisittorPatternWithCompositePatternEx/obj/Debug/net5.0/VisittorPatternWithCompossitePatternEx.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/13#VisitorPattern/VisittorPatternWithCompositePatternEx/obj/Debug/net5.0/VisittorPatternWithCompossitePatternEx.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/7#DecoratorPattern/bin/Debug/net5.0/DecoratorPattern
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/7#DecoratorPattern/bin/Debug/net5.0/DecoratorPattern.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/7#DecoratorPattern/bin/Debug/net5.0/DecoratorPattern.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/7#DecoratorPattern/bin/Debug/net5.0/DecoratorPattern.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/7#DecoratorPattern/bin/Debug/net5.0/DecoratorPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/7#DecoratorPattern/bin/Debug/net5.0/ref/DecoratorPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/7#DecoratorPattern/bin/Debug/net5.0/DecoratorPattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/7#DecoratorPattern/obj/Debug/net5.0/DecoratorPattern.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/7#DecoratorPattern/obj/Debug/net5.0/DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/7#DecoratorPattern/obj/Debug/net5.0/DecoratorPattern.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/7#DecoratorPattern/obj/Debug/net5.0/DecoratorPattern.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/7#DecoratorPattern/obj/Debug/net5.0/DecoratorPattern.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/7#DecoratorPattern/obj/Debug/net5.0/DecoratorPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/7#DecoratorPattern/obj/Debug/net5.0/ref/DecoratorPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/7#DecoratorPattern/obj/Debug/net5.0/DecoratorPattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/7#DecoratorPattern/obj/Debug/net5.0/DecoratorPattern.genruntimeconfig.cache

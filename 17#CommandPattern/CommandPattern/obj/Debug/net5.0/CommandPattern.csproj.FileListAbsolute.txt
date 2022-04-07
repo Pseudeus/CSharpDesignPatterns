@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPattern/bin/Debug/net5.0/CommandPattern
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPattern/bin/Debug/net5.0/CommandPattern.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPattern/bin/Debug/net5.0/CommandPattern.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPattern/bin/Debug/net5.0/CommandPattern.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPattern/bin/Debug/net5.0/CommandPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPattern/bin/Debug/net5.0/ref/CommandPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPattern/bin/Debug/net5.0/CommandPattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPattern/obj/Debug/net5.0/CommandPattern.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPattern/obj/Debug/net5.0/CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPattern/obj/Debug/net5.0/CommandPattern.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPattern/obj/Debug/net5.0/CommandPattern.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPattern/obj/Debug/net5.0/CommandPattern.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPattern/obj/Debug/net5.0/CommandPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPattern/obj/Debug/net5.0/ref/CommandPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPattern/obj/Debug/net5.0/CommandPattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/17#CommandPattern/CommandPattern/obj/Debug/net5.0/CommandPattern.genruntimeconfig.cache

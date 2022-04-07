@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/21#MediatorPattern/MediatorPattern/bin/Debug/net5.0/MediatorPattern
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/21#MediatorPattern/MediatorPattern/bin/Debug/net5.0/MediatorPattern.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/21#MediatorPattern/MediatorPattern/bin/Debug/net5.0/MediatorPattern.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/21#MediatorPattern/MediatorPattern/bin/Debug/net5.0/MediatorPattern.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/21#MediatorPattern/MediatorPattern/bin/Debug/net5.0/MediatorPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/21#MediatorPattern/MediatorPattern/bin/Debug/net5.0/ref/MediatorPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/21#MediatorPattern/MediatorPattern/bin/Debug/net5.0/MediatorPattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/21#MediatorPattern/MediatorPattern/obj/Debug/net5.0/MediatorPattern.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/21#MediatorPattern/MediatorPattern/obj/Debug/net5.0/MediatorPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/21#MediatorPattern/MediatorPattern/obj/Debug/net5.0/MediatorPattern.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/21#MediatorPattern/MediatorPattern/obj/Debug/net5.0/MediatorPattern.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/21#MediatorPattern/MediatorPattern/obj/Debug/net5.0/MediatorPattern.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/21#MediatorPattern/MediatorPattern/obj/Debug/net5.0/MediatorPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/21#MediatorPattern/MediatorPattern/obj/Debug/net5.0/ref/MediatorPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/21#MediatorPattern/MediatorPattern/obj/Debug/net5.0/MediatorPattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/21#MediatorPattern/MediatorPattern/obj/Debug/net5.0/MediatorPattern.genruntimeconfig.cache

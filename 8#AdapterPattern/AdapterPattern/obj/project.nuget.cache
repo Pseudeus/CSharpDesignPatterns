@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xbAoRDkFx/jkqW/iE4b3HkzJWp9FH/4cYp7nj4XLYVJM2Vpj2v2mlVI0lonuC6Du0r8QhEASm5DvZ7Z3+laYcA==",
+  "success": true,
+  "projectFilePath": "/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/8#AdapterPattern/AdapterPattern/AdapterPattern.csproj",
+  "expectedPackageFiles": [
+    "/home/auco1120/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

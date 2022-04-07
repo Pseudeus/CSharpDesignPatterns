@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/15#Strategy(Policy)Pattern/StrategyPattern/bin/Debug/net5.0/StrategyPattern
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/15#Strategy(Policy)Pattern/StrategyPattern/bin/Debug/net5.0/StrategyPattern.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/15#Strategy(Policy)Pattern/StrategyPattern/bin/Debug/net5.0/StrategyPattern.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/15#Strategy(Policy)Pattern/StrategyPattern/bin/Debug/net5.0/StrategyPattern.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/15#Strategy(Policy)Pattern/StrategyPattern/bin/Debug/net5.0/StrategyPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/15#Strategy(Policy)Pattern/StrategyPattern/bin/Debug/net5.0/ref/StrategyPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/15#Strategy(Policy)Pattern/StrategyPattern/bin/Debug/net5.0/StrategyPattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/15#Strategy(Policy)Pattern/StrategyPattern/obj/Debug/net5.0/StrategyPattern.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/15#Strategy(Policy)Pattern/StrategyPattern/obj/Debug/net5.0/StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/15#Strategy(Policy)Pattern/StrategyPattern/obj/Debug/net5.0/StrategyPattern.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/15#Strategy(Policy)Pattern/StrategyPattern/obj/Debug/net5.0/StrategyPattern.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/15#Strategy(Policy)Pattern/StrategyPattern/obj/Debug/net5.0/StrategyPattern.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/15#Strategy(Policy)Pattern/StrategyPattern/obj/Debug/net5.0/StrategyPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/15#Strategy(Policy)Pattern/StrategyPattern/obj/Debug/net5.0/ref/StrategyPattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/15#Strategy(Policy)Pattern/StrategyPattern/obj/Debug/net5.0/StrategyPattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/15#Strategy(Policy)Pattern/StrategyPattern/obj/Debug/net5.0/StrategyPattern.genruntimeconfig.cache

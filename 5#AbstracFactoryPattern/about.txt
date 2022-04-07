@@ -1,0 +1,11 @@
+GoF Definition:
+    Provide an interface for creating families of related or dependent objects without
+    specifying their concrete classes.
+    
+Concept:
+    An abstract factory is called a 'factory of factoryes'. In this pattern, you provide a way to
+    encapsulate a group of individual factories that have a common theme. In this process,
+    you do not mention or specify their concrete classes.
+        This pattern helps you to interchange specific implementations without changing
+    the code that uses them, even at runtime. However, it may result in unnecessary
+    complexity and extra work. Even debugging becomes tough in some cases.

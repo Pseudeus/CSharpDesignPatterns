@@ -1,0 +1,6 @@
+GoF Definition:
+    Ensure a class has only one instance, and provide a global point of acces to it.
+    
+Concept:
+    A particular class should have only one instance. You can use this instance whenever
+    you need it and therefore avoid creating unnecessary objects.

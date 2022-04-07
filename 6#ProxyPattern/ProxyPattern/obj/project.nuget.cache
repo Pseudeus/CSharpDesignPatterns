@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MdLK0TLoGGIG07eliBLPOvz1lNp49D1F8gelIgwLU0CW6v53pzTYpXxExIsOSW2RpEFvupYDClhdwFlGT49aog==",
+  "success": true,
+  "projectFilePath": "/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/6#ProxyPattern/ProxyPattern.csproj",
+  "expectedPackageFiles": [
+    "/home/auco1120/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

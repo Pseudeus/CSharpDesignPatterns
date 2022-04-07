@@ -1,0 +1,11 @@
+GoF Definition:
+    Define an object that encapsulates how a set of objects interact. Mediator promotes
+    loose coupling by keeping objects from referring to each other explicitly, and it lets you
+    vary their interaction indepently.
+    
+Concept:
+    A mediator takes responsibility for controlling and coordinating the interactions of
+    a specific group of objects that cannot refer each other explicitly. In other words, a
+    mediator is an intermediary through whom these objects talk to each other. This kind of
+    implementation helps you to reduce the number of interconnections among different
+    objects. As a result, you can reduce the coupling in the system.

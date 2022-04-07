@@ -1,0 +1,9 @@
+GoF Definition:
+    Given a language, define a representation for its grammar along with an interpreter that
+    uses the representation to interpret sentences in the language.
+    
+Concept:
+    This pattern deals with evualuating sentences in a language. You need to define a
+    grammar to represent the language, and then the interpreter will deal with that grammar.
+    For example, in this example, you will transform a three-digit integer that is input into its 
+    equivalent word form (in other words, a string).

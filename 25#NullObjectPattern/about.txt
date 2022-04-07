@@ -1,0 +1,18 @@
+GoF Definition:
+    There is no universally accepted definition. So, let's choose the definiton from
+    wikipedia which says the following:
+        
+        "In object-oriented cumputer programming, a null object is an object with
+         no referenced value or with defined neutral ('null') behavior. The null object
+         design pattern describes the uses of such objects and their behavior (or lack
+         thereof). It was first published in the Pattern Languages of Program Design
+         book series."
+    
+Concept:
+    The pattern can implement a "do-nothing" relationship, or it can provide a default
+    behavior when an application encounters a null object instead of a real object. In simple
+    words, the core aim is to make a better solution by avoiding a "null objects check" or
+    "null collaborations check" through if blocks.
+        To explain the concept better, I will explain the problems associated with the
+    following program (which is basically a faulty program), analyze the probable solutions,
+    and, ultimately, implement the concept of this design pattern.

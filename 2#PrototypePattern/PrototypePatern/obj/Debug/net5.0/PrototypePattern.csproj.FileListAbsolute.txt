@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePattern/bin/Debug/net5.0/PrototypePattern
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePattern/bin/Debug/net5.0/PrototypePattern.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePattern/bin/Debug/net5.0/PrototypePattern.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePattern/bin/Debug/net5.0/PrototypePattern.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePattern/bin/Debug/net5.0/PrototypePattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePattern/bin/Debug/net5.0/ref/PrototypePattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePattern/bin/Debug/net5.0/PrototypePattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePattern/obj/Debug/net5.0/PrototypePattern.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePattern/obj/Debug/net5.0/PrototypePattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePattern/obj/Debug/net5.0/PrototypePattern.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePattern/obj/Debug/net5.0/PrototypePattern.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePattern/obj/Debug/net5.0/PrototypePattern.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePattern/obj/Debug/net5.0/PrototypePattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePattern/obj/Debug/net5.0/ref/PrototypePattern.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePattern/obj/Debug/net5.0/PrototypePattern.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePattern/obj/Debug/net5.0/PrototypePattern.genruntimeconfig.cache

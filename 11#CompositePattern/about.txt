@@ -1,0 +1,19 @@
+GoF Definition:
+    Composite objects into tree structures to represent part-whole hierarchies. Composite lets
+    clients treat individual objects and compositions of objects uniformly.
+    
+Concept:
+    This pattern is useful to represent part-whole hierarchies of objects. In object-orientated
+    programming, a composite is an object sith a composition of one or more similar 
+    objects, where each of these objects has similar functionality. (this is also known as a
+    "has-a" relationship among objects.) So, the usage of this pattern is common in tree-
+    structured data. If you can apply the concept properly, you do not need to discriminate
+    between a branch and the leaf nodes. In simple words, you can archieve these two key
+    goals with this pattern:
+        
+        *   You can compose objects into a tree structure to represent a part-
+            whole hierarchy.
+            
+        *   You can access both the composite objects (branches) and the 
+            individual objects (leaf nodes) uniformly. As a result, you can reduce
+            the complexity of the code and make the application less error prone.

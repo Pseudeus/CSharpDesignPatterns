@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DniDJ39y+tQpVr1pyk1Kih9RlLGRn32w9WHRQNkskk55HgDZ06v3ll5oVeFxeKDnnpxW4cLMjwyY2DzreLB/pQ==",
+  "success": true,
+  "projectFilePath": "/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/18#IteratorPattern/IteratorPattern/IteratorPattern.csproj",
+  "expectedPackageFiles": [
+    "/home/auco1120/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

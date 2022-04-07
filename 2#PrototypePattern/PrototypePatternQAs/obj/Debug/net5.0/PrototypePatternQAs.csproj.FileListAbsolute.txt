@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePatternQAs/bin/Debug/net5.0/PrototypePatternQAs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePatternQAs/bin/Debug/net5.0/PrototypePatternQAs.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePatternQAs/bin/Debug/net5.0/PrototypePatternQAs.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePatternQAs/bin/Debug/net5.0/PrototypePatternQAs.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePatternQAs/bin/Debug/net5.0/PrototypePatternQAs.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePatternQAs/bin/Debug/net5.0/ref/PrototypePatternQAs.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePatternQAs/bin/Debug/net5.0/PrototypePatternQAs.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePatternQAs/obj/Debug/net5.0/PrototypePatternQAs.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePatternQAs/obj/Debug/net5.0/PrototypePatternQAs.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePatternQAs/obj/Debug/net5.0/PrototypePatternQAs.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePatternQAs/obj/Debug/net5.0/PrototypePatternQAs.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePatternQAs/obj/Debug/net5.0/PrototypePatternQAs.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePatternQAs/obj/Debug/net5.0/PrototypePatternQAs.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePatternQAs/obj/Debug/net5.0/ref/PrototypePatternQAs.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePatternQAs/obj/Debug/net5.0/PrototypePatternQAs.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/PrototypePatternQAs/obj/Debug/net5.0/PrototypePatternQAs.genruntimeconfig.cache

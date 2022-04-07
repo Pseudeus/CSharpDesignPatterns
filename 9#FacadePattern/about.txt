@@ -1,0 +1,7 @@
+GoF Definition:
+    Provide a unified interface to a set of interfaces in a subsystem. Facade defines a
+    higher level interface that makes the subsystem easiesr to use.
+    
+Concept:
+    This pattern supposrts loose coupling. With this pattern, you can emphasize the
+    abstraction and hide the complex details by exposing a simple interface.

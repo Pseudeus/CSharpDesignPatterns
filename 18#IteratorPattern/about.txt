@@ -1,0 +1,19 @@
+GoF Definition:
+    Provide a way to access the elements of an aggregate object sequentally without
+    exposing its underlying representation.
+    
+Concept:
+    Iterator are Generally used to travers a container (which is basically an object) to
+    access its elements, but you do not need to deal with the element's internal details. You
+    will frequently use the concepts of iterators when you want to traverse different kinds of
+    collection objects in a standard an uniform way.
+    
+        *   This concept is used frequently to traverse the nodes of a tree-like
+            structure. So, in many scenarios, you may notice the use of the 
+            Iterator pattern with the Composite pattern.
+        
+        *   C# has its own iterators that were introduced in Visual Studio 2005.
+            The foreach statement is frequenly used in this context. 
+            
+        *   If you are familiar with java, you may have already used java's built-in
+            Iterator interface.

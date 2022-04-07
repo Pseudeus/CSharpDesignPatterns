@@ -1,0 +1,16 @@
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionQuiz1/bin/Debug/net5.0/GarbageCollectionQuiz1
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionQuiz1/bin/Debug/net5.0/GarbageCollectionQuiz1.deps.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionQuiz1/bin/Debug/net5.0/GarbageCollectionQuiz1.runtimeconfig.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionQuiz1/bin/Debug/net5.0/GarbageCollectionQuiz1.runtimeconfig.dev.json
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionQuiz1/bin/Debug/net5.0/GarbageCollectionQuiz1.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionQuiz1/bin/Debug/net5.0/ref/GarbageCollectionQuiz1.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionQuiz1/bin/Debug/net5.0/GarbageCollectionQuiz1.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionQuiz1/obj/Debug/net5.0/GarbageCollectionQuiz1.csprojAssemblyReference.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionQuiz1/obj/Debug/net5.0/GarbageCollectionQuiz1.GeneratedMSBuildEditorConfig.editorconfig
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionQuiz1/obj/Debug/net5.0/GarbageCollectionQuiz1.AssemblyInfoInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionQuiz1/obj/Debug/net5.0/GarbageCollectionQuiz1.AssemblyInfo.cs
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionQuiz1/obj/Debug/net5.0/GarbageCollectionQuiz1.csproj.CoreCompileInputs.cache
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionQuiz1/obj/Debug/net5.0/GarbageCollectionQuiz1.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionQuiz1/obj/Debug/net5.0/ref/GarbageCollectionQuiz1.dll
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionQuiz1/obj/Debug/net5.0/GarbageCollectionQuiz1.pdb
+/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/GarbageCollectionQuiz1/obj/Debug/net5.0/GarbageCollectionQuiz1.genruntimeconfig.cache

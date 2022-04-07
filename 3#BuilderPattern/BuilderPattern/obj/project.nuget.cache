@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PklyPyVfykvI0j2RAE+qFLuqQjQ8coU+AzHDuvSX1fcD9ljj0SOighQQ8xWtcss85Swp553B/IMStzJfAZ0j4w==",
+  "success": true,
+  "projectFilePath": "/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/BuilderPattern/BuilderPattern.csproj",
+  "expectedPackageFiles": [
+    "/home/auco1120/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

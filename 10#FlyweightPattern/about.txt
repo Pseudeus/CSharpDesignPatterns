@@ -1,0 +1,27 @@
+GoF Definition:
+    Use sharing to supoport large numbers of fine grained objecs efficently.
+    
+Concept:
+    The GoF said the following about flyweights:
+        
+        A flyweight is a shared object that can be used in multiple contexts
+        simultaneously. The flyweight acts as an independent object in each
+        context --- it's indistinguishable from an instance of the object that's not
+        shared. Flyweights cannot make assumptions about the context in which
+        they operate. The key concept here is the distiction between intrinsic and
+        extrinsic state. Intrinsic state is stored in the flyweight; it consists of
+        information that's independent of the flyweight's context, thereby making it
+        shareable. Extrinsic state depends on and varies with the flyweight's context
+        and therefore can't be shared. Client objects are responsible for passing
+        extrinsic state to the flyweight when it needs it.
+        
+        So, you can conclude the following:
+        
+            *   A flyweight is an object. It tries to minimize memory usage by sharing
+                data as mush as possible with other similar objects. Shared objects 
+                may try to allow their usage at fine granularities with minimum costs.
+            
+            *   Two common term are used in the previous extract: intrinsic and
+                extrinsic. Intrinsic state is stored/shared in the flyweight object. On the
+                other hand, client objects store the extrinsic state, and these objects 
+                are passed to a flyweight object when they invoke the operations.

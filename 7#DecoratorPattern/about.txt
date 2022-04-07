@@ -1,0 +1,11 @@
+GoF Definition:
+    Attach additional responsabilities to an object dynamically. Decorator provide a flexible
+    alternative to subclassing for extending functionality.
+    
+Concept:
+    This pattern promotes the concept that your clas should be closed for modification
+    but open for extension. In other words, you can add a functionality without disturbing
+    the existing functionalities. The concept is useful when you want to add some special
+    functionality to a specific object instead of the whole class. This pattern prefers object
+    composition over inheritance. Once you master this technique, you can add new 
+    responsabilities to an object without affecting the underlying classes.

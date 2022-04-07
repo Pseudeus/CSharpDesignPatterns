@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b2fVnoJHabiA8J9cxyWuuQVnUNYXPTEcwiSbaX04/6tOUjxq6WVfQYNkFIdA0yHO8XbPn+KCQV4nbu8s8MdxlQ==",
+  "success": true,
+  "projectFilePath": "/home/auco1120/Documents/vsCode/C#/Console/DesignPatterns/29#MemoryLeaks/MemoryLeakWithSimpleEventDemo/MemoryLeakWithSimpleEventDemo.csproj",
+  "expectedPackageFiles": [
+    "/home/auco1120/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
